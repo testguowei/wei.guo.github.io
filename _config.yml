@@ -5,7 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: 1101893803@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, iOS, Apple, iPhone"
-url: "http://wei.guo.github.io"          # your host, for absolute URL
+url: "https://testguowei.github.io/wei.guo.github.io/"          # your host, for absolute URL
+root: /
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/testguowei/wei.guo.github.io" # you code repository
 
